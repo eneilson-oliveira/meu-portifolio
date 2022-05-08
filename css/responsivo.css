@@ -9,7 +9,7 @@
        display: flex;
        height: 170px;
        width: 90%;
-       font-size: 25px;
+       font-size: 20px;
        margin-top: 0;
        padding-bottom: 300px;
  
@@ -22,7 +22,7 @@
     }
     a:hover{
        color: brown;
-       font-size: 30px;
+       font-size: 25px;
     }
  
     h1 {
